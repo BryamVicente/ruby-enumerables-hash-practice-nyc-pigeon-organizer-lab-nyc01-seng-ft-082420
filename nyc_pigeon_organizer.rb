@@ -38,18 +38,6 @@ def nyc_pigeon_organizer(data)
   }
 }
 
-pigeon_data = {
-  :color => {
-    :white => ["Alex"],
-    :brown => ["Alex"],
-  },
-  :gender => {
-    :male => ["Alex"],
-  },
-  :lives => {
-    "Central Park" => ["Alex"],
-    "Library" => ["Luca"]
-  }
-}
+
 
 end
