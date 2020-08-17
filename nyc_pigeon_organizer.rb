@@ -64,7 +64,3 @@ end
     :lives => ["Central Park"]
   }
 }
-
-
-
-end
